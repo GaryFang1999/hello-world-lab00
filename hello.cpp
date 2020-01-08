@@ -4,9 +4,9 @@ using namespace std;
 int main(){
 
 
-cout <<"Harsh is awesome "<< endl;
+cout <<"Hello, world!"<< endl; 
 
-cout << "I am not";
+cout << "I am ready for CS 16!";
 
 return 0;
 }
